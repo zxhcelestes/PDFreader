@@ -1,0 +1,6 @@
+[history_pdf]
+2020.acl-main-beyond accuracy.pdf = C:/Users/76121/Desktop/2020.acl-main-Beyond Accuracy.pdf
+bert2bert.pdf = C:/Users/76121/Desktop/bert2BERT.pdf
+registration confirmation.pdf = C:/Users/76121/Desktop/Registration Confirmation.pdf
+2027407077-陈琦-英文学籍证明.pdf = C:/Users/76121/Desktop/2027407077-陈琦-英文学籍证明.pdf
+
