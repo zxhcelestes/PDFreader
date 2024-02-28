@@ -1,0 +1,5 @@
+__pycache__/
+sbert/
+exp/
+*.egg-info/
+config.txt
